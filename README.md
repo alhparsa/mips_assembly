@@ -12,7 +12,7 @@ This program is a Command-Line based program. Its parameters are as follows:
 - `h` or `--help`: Help menu.
 
 ### Example:
-```assembler i input_file.asm o output_file.hex m a```
+```main.py i input_file.asm o output_file.hex m a```
 
 
 ## Input and output specifications
